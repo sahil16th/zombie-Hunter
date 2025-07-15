@@ -19,8 +19,7 @@ In this first-person zombie shooter game, players are dropped into a dark, eerie
 ## 🧩 Features
 
 - ✅ 100 zombie kill challenge  
-- ✅ FPS-style aiming & shooting  
-- ✅ Multiple zombie types with unique AI behaviors  
+- ✅ FPS-style aiming & shooting    
 - ✅ Realistic gun mechanics with reloading  
 - ✅ Background music and eerie sound effects  
 - ✅ Smooth character controller and animations
