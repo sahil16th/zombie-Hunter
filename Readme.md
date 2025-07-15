@@ -66,7 +66,9 @@ In this first-person zombie shooter game, players are dropped into a dark, eerie
 
 ## 🎥 Gameplay Video
 
-🔗 [Watch Gameplay Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7268125880713912320)
+[![Watch Gameplay Video](https://img.youtube.com/vi/ukGmjaZe-k8/0.jpg)](https://youtu.be/ukGmjaZe-k8)
+
+> 🔗 [Click here to watch on YouTube](https://youtu.be/ukGmjaZe-k8)
 
 ---
 
